@@ -1,4 +1,4 @@
-# 🥇ACK_2026_09_22_Traffic_Light_Detection_stability_Yolo
+# 🥇ACK_2026_09_22_Traffic_Light_Detection_Stability_Yolo
 
 ---
 ### Analyzing Stable Detection Timing and Hazardous Error Duration of YOLO Models in Vehicle Approach Sequences
