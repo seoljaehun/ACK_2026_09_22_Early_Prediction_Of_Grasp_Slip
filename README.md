@@ -1,7 +1,7 @@
-# 🥇ACK_2026_09_22_Early_Prediction_Of_Grasp_Slip
+# 🥇ACK_2026_09_22_Traffic_Light_Detection_stability_Yolo
 
 ---
-### Early Prediction of Robotic Grasp Slip Based on Tactile Activity Onset
+### Analyzing Stable Detection Timing and Hazardous Error Duration of YOLO Models in Vehicle Approach Sequences
 
 - 저자: 설재훈, 최승범, 김동현, 김영균
 
